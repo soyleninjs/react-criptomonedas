@@ -8,7 +8,6 @@ const Label = styled.label`
   font-weight: bold;
   font-size: 2.4rem;
   margin-top: 2rem;
-  margin-bottom: 0.5rem;
   display: block;
 `;
 
